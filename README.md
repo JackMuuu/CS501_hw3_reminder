@@ -1,1 +1,1 @@
-# CS501_hw3_reminder
+# CS501_hw3_team_assignment_reminder
